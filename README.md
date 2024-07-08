@@ -3,8 +3,6 @@
 
 <p align="center"> Desenvolvedor júnior motivado e focado em resultados, buscando sua primeira oportunidade na área de tecnologia e desenvolvimento. Pronto para contribuir de forma proativa em uma equipe dinâmica, almejando o crescimento pessoal e da organização. </p>&nbsp;
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=50% src="perfil.png.jpeg" />
-&nbsp;&nbsp;&nbsp;
 
 ## My Skills
 
