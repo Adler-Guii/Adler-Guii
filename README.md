@@ -1,6 +1,3 @@
-![perfil vsgod png](https://github.com/Adler-Guii/Adler-Guii/assets/164437805/e5b5f30a-a0b3-4d0e-88f1-3d5fd1eccd5d)
-
-
 
 <p align="center"> Desenvolvedor júnior motivado e focado em resultados, buscando sua primeira oportunidade na área de tecnologia e desenvolvimento. Pronto para contribuir de forma proativa em uma equipe dinâmica, almejando o crescimento pessoal e da organização. </p>&nbsp;
 
