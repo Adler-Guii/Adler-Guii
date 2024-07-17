@@ -1,7 +1,5 @@
 
-<p align="center"> Meu nome é Guilherme Adler WebDeveloper, e minha jornada profissional combina desenvolvimento digital com vendas. Com mais de um ano e quatro meses de experiência no mercado, desenvolvi habilidades não apenas na comunicação, negociação e resolução de problemas, mas também me aprofundei na área digital, criando sites e entendendo cada linha de código. Aprendi a compreender a experiência do usuário e toda a estrutura por trás dos bastidores, incluindo APIs, bancos de dados, servidores, tecnologias web, escalabilidade e segurança de dados, entre outros aspectos.
-
-Busco constantemente novas oportunidades para expandir meu conhecimento e impactar positivamente qualquer equipe em que eu esteja. Estou pronto para abraçar desafios maiores e contribuir significativamente.</p>&nbsp;
+<p align="center"> Meu nome é Guilherme Adler WebDeveloper, e minha jornada profissional combina desenvolvimento digital com vendas. Com mais de um ano e quatro meses de experiência no mercado, desenvolvi habilidades não apenas na comunicação, negociação e resolução de problemas, mas também me aprofundei na área digital, criando sites e entendendo cada linha de código. Aprendi a compreender a experiência do usuário e toda a estrutura por trás dos bastidores, incluindo APIs, bancos de dados, servidores, tecnologias web, escalabilidade e segurança de dados, entre outros aspecto</p>&nbsp;
 
 
 ## My Skills
