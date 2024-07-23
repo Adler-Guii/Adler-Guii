@@ -8,10 +8,10 @@
 
 ![Node.js](https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000)
 ![JavaScript](https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![mySQL](https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000)
+![Mongo db](https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000)
+![HTML](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
+![CSS](https://img.icons8.com/?size=100&id=21278&format=png&color=000000)
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
@@ -20,7 +20,7 @@
 
 #### Workstation Tools:
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![VScode](https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000)
 
 &nbsp;
 &nbsp;
