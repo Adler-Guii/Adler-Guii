@@ -1,12 +1,12 @@
 
-<p align="center"> Meu nome é Guilherme Adler WebDeveloper, e minha jornada profissional combina desenvolvimento digital com vendas. Com mais de um ano e quatro meses de experiência no mercado, desenvolvi habilidades não apenas na comunicação, negociação e resolução de problemas, mas também me aprofundei na área digital, criando sites e entendendo cada linha de código. Aprendi a compreender a experiência do usuário e toda a estrutura por trás dos bastidores, incluindo APIs, bancos de dados, servidores, tecnologias web, escalabilidade e segurança de dados, entre outros aspecto</p>&nbsp;
+<p align="center"> Hello Desenvolvedor back end cada dia 1% melhor! </p>&nbsp;
 
 
 ## My Skills
 
 #### Main Stack:
 
-
+![Node.js](https://icons8.com.br/icon/hsPbhkOH4FMe/node-js)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
