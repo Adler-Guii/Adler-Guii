@@ -13,6 +13,7 @@
 
 ![Node.js](https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000)
 ![JavaScript](https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000)
+![React](https://img.icons8.com/?size=100&id=123603&format=png&color=000000)
 ![mySQL](https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000)
 ![Mongo db](https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000)
 ![HTML](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
