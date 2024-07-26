@@ -10,7 +10,7 @@
 ## My Skills
 
 #### Main Stack:
-
+![Java](https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000)
 ![Node.js](https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000)
 ![Express](https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000)
 ![JavaScript](https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000)
