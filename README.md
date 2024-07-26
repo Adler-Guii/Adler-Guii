@@ -21,7 +21,7 @@
 ![CSS](https://img.icons8.com/?size=100&id=21278&format=png&color=000000)
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="500px" width="500px" align="right" alt="Computador iuriCode">
 
 
 
@@ -35,11 +35,10 @@
 ## Contacts:
 
 <div> 
-<a href="https://www.instagram.com/adler_guii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://www.instagram.com/adler_guii/" target="_blank"><img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000">
 </a>
-<a href = "mailto:guifrancoadler@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/guilherme-franco-5784a4221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://medium.com/@rafaelalexandrino" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank"></a> 
+<a href = "mailto:guifrancoadler@gmail.com"> <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000"></a>
+<a href="https://www.linkedin.com/in/guilherme-franco-5784a4221/" target="_blank"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"></a> 
 </div>&nbsp;&nbsp;
  
 
