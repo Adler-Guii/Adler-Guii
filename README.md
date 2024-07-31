@@ -10,7 +10,6 @@
 ## My Skills
 
 #### Main Stack:
-![Java](https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000)
 ![Javascript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)
 ![React](https://img.icons8.com/?size=100&id=123603&format=png&color=000000)
 ![mySQL](https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000)
