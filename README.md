@@ -14,7 +14,6 @@
 ![Javascript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)
 ![React](https://img.icons8.com/?size=100&id=123603&format=png&color=000000)
 ![mySQL](https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000)
-![Express](https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000)
 ![Mongo db](https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000)
 ![HTML](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
 ![CSS](https://img.icons8.com/?size=100&id=21278&format=png&color=000000)
