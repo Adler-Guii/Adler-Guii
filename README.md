@@ -1,5 +1,5 @@
 
-<p align="center"> Hello Word!🌎 , muito prazer sou  Guilherme Adler jovem  Desenvolvedor Full Stack.<p></p.>
+<p align="center"> Hello Word!🌎 , muito prazer sou  Guilherme Adler jovem  Desenvolvedor back-end.<p></p.>
 
 <p aling="center"> Bill Gates disse uma vez:</p>
 
