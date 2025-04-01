@@ -11,13 +11,10 @@
 
 #### Main Stack:
 ![Phyton](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
-![Javascript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)
 ![Django](https://img.icons8.com/?size=100&id=37o3DqV429ra&format=png&color=000000)
-![React](https://img.icons8.com/?size=100&id=123603&format=png&color=000000)
 ![mySQL](https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000)
 ![Mongo db](https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000)
-![HTML](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
-![CSS](https://img.icons8.com/?size=100&id=21278&format=png&color=000000)
+
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="500px" width="500px" align="right" alt="Computador iuriCode">
