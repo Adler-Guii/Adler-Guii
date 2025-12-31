@@ -1,6 +1,6 @@
 <p align="center"> 
   Hello World! 🌎 <br>
-  Muito prazer, sou <strong>Guilherme Adler</strong>, jovem Desenvolvedor Back-End.
+  Muito prazer, sou <strong>Guilherme Adler</strong>, Dev Full Stack.
 </p>
 
 <p align="center">
