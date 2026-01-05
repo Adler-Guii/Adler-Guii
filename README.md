@@ -3,11 +3,98 @@
 🚀 **Junior Software Engineer | Full Stack Python**  
 🌍 Open to opportunities in **Brazil and international remote teams**
 
-Sou **Engenheiro de Software em início de carreira**, com atuação **Full Stack**, desenvolvendo aplicações web completas com **Python e Django**, unindo backend, frontend, comunicação clara e visão de produto.
+Sou **Engenheiro de Software em início de carreira**, com atuação **Full Stack**, focado em desenvolver aplicações web completas com **Python e Django**, sempre com atenção à clareza de código, boa comunicação e visão de produto.
 
-Atualmente estou construindo um **SaaS de Controle de Ativos**, aplicando conceitos reais de engenharia de software, organização de código, experiência do usuário e evolução contínua de sistemas.
+Construo soluções pensando não apenas em funcionalidades, mas em **organização, manutenção e evolução contínua**.
 
-Meu objetivo é **ingressar profissionalmente na área de tecnologia**, contribuindo com times que valorizam colaboração, responsabilidade técnica, boa comunicação e crescimento sustentável.
+---
+
+## 🏗️ Current Project (Main Focus)
+
+### 🔹 SaaS — Asset Control System
+
+Sistema web para **controle de ativos empresariais**, criado para substituir planilhas e processos manuais, com foco em **organização, segurança, comunicação entre áreas e escalabilidade**.
+
+**O que este projeto demonstra:**
+- Desenvolvimento de um produto real do zero
+- Arquitetura backend com Django
+- Modelagem de dados e regras de negócio
+- Autenticação e controle de permissões
+- CRUD completo
+- Integração backend ↔ frontend
+- Versionamento e evolução contínua com Git
+- Preocupação com código limpo e organização
+
+> Este projeto é meu principal laboratório para aplicar conceitos reais de engenharia de software.
+
+---
+
+## 🛠️ Technical Skills
+
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+
+### Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
+
+---
+
+## 🧠 Professional Profile
+
+- Engenheiro de Software **Full Stack Júnior**
+- Forte atuação em **Python e Django**
+- Integração frontend e backend
+- Base sólida em **Programação Orientada a Objetos**
+- Boa comunicação técnica para explicar decisões e soluções
+- Facilidade para trabalhar em equipe e alinhar requisitos técnicos e de negócio
+- Evolução contínua documentada no GitHub
+
+---
+
+## 🤖 Artificial Intelligence as a Productivity Tool
+
+Utilizo **Inteligência Artificial** de forma **ética e estratégica** para aumentar produtividade e qualidade, apoiando em:
+
+- Análise e refatoração de código
+- Criação de testes e validações
+- Escrita de documentação técnica
+- Automação de tarefas repetitivas
+- Apoio à tomada de decisões técnicas
+
+> A IA **não substitui meu raciocínio** — ela potencializa meu aprendizado e eficiência.
+
+---
+
+## 💡 Soft Skills
+
+- Comunicação clara (técnica e não técnica)
+- Capacidade de explicar soluções e decisões
+- Pensamento lógico e analítico
+- Aprendizado rápido e autodidata
+- Colaboração e trabalho em equipe
+- Responsabilidade e compromisso com qualidade
+- Mentalidade de evolução contínua
+
+---
+
+## 🚀 Professional Mindset
+
+> _“I build solutions with clarity, quality, and growth in mind — not just features.  
+> My goal is to deliver software that solves real problems and evolves with use.”_
+
+Focused on building **end-to-end solutions**, from backend logic to user-facing interfaces.
 
 ---
 
@@ -30,112 +117,5 @@ Meu objetivo é **ingressar profissionalmente na área de tecnologia**, contribu
 
 ---
 
-## 🧠 Professional Profile
-
-- Engenheiro de Software **Full Stack Júnior**
-- Desenvolvimento backend com **Python**
-- Aplicações web com **Django**
-- Integração frontend ↔ backend
-- Base sólida em **Programação Orientada a Objetos**
-- Uso consciente de **Inteligência Artificial como ferramenta de produtividade**
-- Boa comunicação técnica, com capacidade de **explicar ideias, decisões e soluções de forma clara**
-- Facilidade para colaborar em equipe, receber feedbacks e alinhar requisitos técnicos e de negócio
-- Evolução contínua documentada no GitHub
-
----
-
-## 🏗️ Current Project
-
-### 🔹 SaaS — Asset Control System
-
-Sistema web para **controle de ativos empresariais**, desenvolvido para substituir planilhas e processos manuais, com foco em organização, segurança, comunicação entre áreas e escalabilidade.
-
-**Principais práticas aplicadas:**
-- Backend com Django e Python
-- Modelagem de dados e regras de negócio
-- Autenticação e controle de permissões
-- CRUD completo
-- Integração backend e frontend
-- Organização de código (apps, views, services)
-- Versionamento com Git
-- Evolução contínua baseada em problemas reais
-
----
-
-## 🛠️ Tech Stack
-
-### Backend
-- Python
-- Django
-- Programação Orientada a Objetos
-- Conceitos de APIs REST
-- Autenticação e autorização
-
-### Frontend
-- HTML5
-- CSS3
-- JavaScript (básico a intermediário)
-- Integração com Django Templates
-- Noções de UX e usabilidade
-
-### Databases
-- SQLite
-- MySQL
-- PostgreSQL (conceitos)
-
-### Tools & Workflow
-- Git & GitHub
-- VS Code
-- Linux / Windows
-- Postman / Insomnia (conceitos)
-- Organização de commits e versionamento
-
----
-
-## 🤖 Artificial Intelligence as a Productivity Tool
-
-Estou cursando **Introdução à Inteligência Artificial**, utilizando IA de forma **ética e estratégica** para:
-
-- Apoiar análise e refatoração de código
-- Criar testes e validações
-- Produzir documentação técnica
-- Automatizar tarefas repetitivas
-- Apoiar decisões técnicas e de arquitetura
-
-> A IA **não substitui meu raciocínio** — ela potencializa minha produtividade, aprendizado e capacidade de comunicação.
-
----
-
-## 💡 Soft Skills
-
-- Comunicação clara e objetiva (técnica e não técnica)
-- Capacidade de explicar soluções e decisões técnicas
-- Pensamento lógico e analítico
-- Aprendizado rápido e autodidata
-- Resolução de problemas reais
-- Versatilidade técnica (Full Stack)
-- Colaboração, responsabilidade e comprometimento
-- Mentalidade de evolução contínua
-
----
-
-## 🚀 Professional Mindset
-
-> _“I build solutions with clarity, quality, and growth in mind — not just features.  
-> My goal is to deliver software that solves real problems and evolves with use.”_
-
-Focused on building **end-to-end solutions**, from backend logic to user-facing interfaces.
-
----
-
-## 🌱 What I'm Looking For
-
-- Primeira oportunidade como **Engenheiro de Software Júnior / Full Stack Python**
-- Ambientes que incentivem **mentoria, colaboração e crescimento técnico**
-- Times no **Brasil ou internacionais (remoto)**
-- Empresas que valorizem boa comunicação, responsabilidade técnica e visão de produto
-
----
-
-⭐ Este GitHub documenta minha evolução real  
+⭐ Este GitHub documenta minha evolução real como engenheiro de software  
 🤝 Aberto a conexões, feedbacks e oportunidades profissionais
