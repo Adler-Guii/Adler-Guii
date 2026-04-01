@@ -2,7 +2,7 @@
 
 🚀 Desenvolvedor Backend
 💻 Java | Spring Boot | SQL
-🌎 Aberto a oportunidades no Brasil 
+🌎 Buscando primeira oportunidade na área de tecnologia 
 
 ---
 
